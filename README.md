@@ -17,7 +17,7 @@ A simple, step-by-step guide to setting up your very own VPN using Cloudflare Wo
 Before you begin, make sure you have:
 - A valid email address (Gmail recommended)
 - A device with internet access
-- [V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang) (for Android) or any V2Ray-compatible client
+- [V2RayNG]([https://play.google.com/store/apps/details?id=com.v2ray.ang](https://github.com/2dust/v2rayng)) (for Android) or any V2Ray-compatible client
 
 ---
 
@@ -51,7 +51,7 @@ Start by creating a new email account on your device. Gmail is recommended for r
 ### Step 5: Paste the Code
 Now you'll need to replace the default code with the VPN script:
 
-Codes: https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/d97645c7fb1e5f924eae342c582795ba9c13bcf1/code.md
+![Codes](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/d97645c7fb1e5f924eae342c582795ba9c13bcf1/code.md)
 
 1. Go to the **Edit code** section of your Worker
 2. Paste the entire code from the repository
@@ -100,7 +100,7 @@ Codes: https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/d97645c7fb1e5
 | Camouflage domain(host) | `your-worker-name.workers.dev` |
 | Path | `/?ed=2048` |
 | Security | `tls` |
-| SNI | [Your Worker Address](your-worker-name.workers.dev) |
+| SNI | `your-worker-name.workers.dev` |
 | AllowInssecure | `false` |
 
 ⚠️ remember paste worker address like this: (`your-worker-name.workers.dev`) not this: (`your-worker-name.workers.dev/`) or this: (`https://your-worker-name.workers.dev/`)
