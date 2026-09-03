@@ -39,6 +39,8 @@ Start by creating a new email account on your device. Gmail is recommended for r
 
 ![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/bf460b399f9fe2c8f64ea13f45fdb3c660d084ba/Screenshot%202026-09-03%20183721.png)
 
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/d89324fb87d926bc6e621e147d4ae079262a338d/Screenshot%202026-09-03%20181629.png)
+
 ### Step 4: Create Your Worker
 1. Click the **"Create application"** button
 2. Select **"Start with Hello World!"**
