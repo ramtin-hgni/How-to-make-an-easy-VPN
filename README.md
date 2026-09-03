@@ -57,7 +57,7 @@ Now you'll need to replace the default code with the VPN script:
 2. Paste the entire code from the repository
 3. Click **Deploy** again
 
-![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/c7b194a557f3cf30eef05329e8fc225ca21b0392/Screenshot%202026-09-03%20182541.png)
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/1334f2dc60aa727cba058f9c6b9806416b6970b2/Screenshot%202026-09-03%20182541.png)
 
 ![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/c7b194a557f3cf30eef05329e8fc225ca21b0392/Screenshot%202026-09-03%20182601.png)
 
