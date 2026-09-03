@@ -46,6 +46,8 @@ Start by creating a new email account on your device. Gmail is recommended for r
 2. Select **"Start with Hello World!"**
 3. Hit the **Deploy** button
 
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/48d0664443849bea3aab64cf0100148026045257/Screenshot%202026-09-03%20182028.png)
+
 ### Step 5: Paste the Code
 Now you'll need to replace the default code with the VPN script:
 
