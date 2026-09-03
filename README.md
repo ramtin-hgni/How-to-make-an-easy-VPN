@@ -37,6 +37,8 @@ Start by creating a new email account on your device. Gmail is recommended for r
 - Once logged in, type **"Workers & Pages"** in the top-left search bar
 - Click on the result to navigate to the Workers dashboard
 
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/bf460b399f9fe2c8f64ea13f45fdb3c660d084ba/Screenshot%202026-09-03%20183721.png)
+
 ### Step 4: Create Your Worker
 1. Click the **"Create application"** button
 2. Select **"Start with Hello World!"**
