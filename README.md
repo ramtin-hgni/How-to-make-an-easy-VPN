@@ -51,8 +51,7 @@ Start by creating a new email account on your device. Gmail is recommended for r
 ### Step 5: Paste the Code
 Now you'll need to replace the default code with the VPN script:
 
-
-
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/d97645c7fb1e5f924eae342c582795ba9c13bcf1/code.md)
 
 1. Go to the **Edit code** section of your Worker
 2. Paste the entire code from the repository
