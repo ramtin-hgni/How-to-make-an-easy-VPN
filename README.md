@@ -80,8 +80,10 @@ Now you'll need to replace the default code with the VPN script:
 ### Step 8: Set Compatibility Date
 1. Scroll down to the **Runtime** section
 2. Locate **Compatibility date**
-3. Set it to `2026-01-13` or a later date
+3. Set it to `2026-01-13` or an older date
 4. Save the changes
+
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/1f813435e318b3d384f057b4322eb3e87c43c2fc/Screenshot%202026-09-03%20184537.png)
 
 ---
 
@@ -92,6 +94,9 @@ Now you'll need to replace the default code with the VPN script:
 1. Copy your Worker Address (e.g., `your-worker-name.workers.dev`)
 2. Open **V2RayNG** on your device
 3. Go to **"Servers"** → **"Add [VLESS] Server"**
+
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/1f813435e318b3d384f057b4322eb3e87c43c2fc/Screenshot%202026-09-03%20184914.png)
+
 4. Fill in the details:
 
 | Field | Value |
@@ -109,7 +114,7 @@ Now you'll need to replace the default code with the VPN script:
 | SNI | `your-worker-name.workers.dev` |
 | AllowInssecure | `false` |
 
-⚠️ remember paste worker address like this: (`your-worker-name.workers.dev`) not this: (`your-worker-name.workers.dev/`) or this: (`https://your-worker-name.workers.dev/`)
+⚠️ remember, paste worker address like this: (`your-worker-name.workers.dev`) not this: (`your-worker-name.workers.dev/`) or this: (`https://your-worker-name.workers.dev/`)
 
 5. Click **Confirm** to save the configuration
 
@@ -122,7 +127,7 @@ Now you'll need to replace the default code with the VPN script:
 1. Download **CF Scanner** (a tool to find optimal Cloudflare IPs)
 2. Paste your V2Ray configuration URL into the scanner
 3. Start the scan to find the best-performing IPs for your ISP
-4. Copy the high-speed results and update your V2Ray configuration
+4. Copy the high-speed results and Paste it in to V2ray agaiinn😵‍💫
 
 ---
 
