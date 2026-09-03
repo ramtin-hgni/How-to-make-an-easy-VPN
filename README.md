@@ -75,6 +75,8 @@ Now you'll need to replace the default code with the VPN script:
    - **Value:** Paste your generated UUID
 5. Click **Add** to save
 
+![](https://github.com/ramtin-hgni/How-to-make-an-easy-VPN/blob/237ff46266534a5d09b4dfb0fe07a6439233697a/Screenshot%202026-09-03%20184406.png)
+
 ### Step 8: Set Compatibility Date
 1. Scroll down to the **Runtime** section
 2. Locate **Compatibility date**
